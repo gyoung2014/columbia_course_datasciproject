@@ -1,4 +1,4 @@
-### Columbia University DataSci Course Project -Fall 2017
+### Columbia University DataSci Final Project -Fall 2017
 
 #### The code is running under python 3.x version
 ####  * Utilized following packages:Pandas,Numpy,scikit-learn,matplotlib,Plotly,wordcloud,nltk,and kearas (tensorflow back-end)
